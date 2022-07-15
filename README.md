@@ -9,7 +9,6 @@
 - [Credits](#Credits)
 
 ## Description
-
 A notetaker utilising  express.js 
 
 ## User Story 
