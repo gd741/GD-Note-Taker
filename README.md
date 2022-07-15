@@ -1,6 +1,6 @@
-## Note-Taker ##
+# Note-Taker #
 
-# Table of Contents
+## Table of Contents
 - [Description](#description)
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
@@ -8,16 +8,18 @@
 - [Walkthrough Video](#walkthrough-video)
 - [Credits](#Credits)
 
-# Description
+## Description
 
-# User Story #
+A notetaker utilising  express.js 
+
+## User Story 
 ```md
 AS A small business owner
 I WANT to be able to write and save notes
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ```
 
-# Acceptance Criteria
+## Acceptance Criteria
 ```md
 GIVEN a note-taking application
 WHEN I open the Note Taker
@@ -34,4 +36,4 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 ```
 
-
+##
