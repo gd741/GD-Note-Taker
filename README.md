@@ -1,11 +1,12 @@
-# Note-Taker #
+# GD-Note-Taker #
 
 ## Table of Contents
 - [Description](#description)
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
-- [Screenshot](#screenshot)
+- [Screenshots](#screenshot)
 - [Walkthrough Video](#walkthrough-video)
+- [How to start](#Function)
 - [Credits](#Credits)
 
 ## Description
@@ -37,6 +38,6 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Screenshots
 
-## Video Walkthrough
+## Walkthrough Video
 
 ## Function
